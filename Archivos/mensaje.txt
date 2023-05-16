@@ -1,0 +1,5 @@
+Bienvenido a el primer repositorio para este curso de Globant.
+
+Creado con fines de practicar el uso de Git y github
+
+Hola!
