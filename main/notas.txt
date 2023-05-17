@@ -1,0 +1,4 @@
+Archivo de prueba creado desde la git bash
+
+práctica para git y Github
+
