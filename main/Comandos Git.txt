@@ -8,7 +8,7 @@ Git add <nombre_archivo> -- agrega un archivo o directorio escpecifico al stagin
 
 Git commit .m "<mensaje>" -- sirve para guardar y hacer commit con un mensaje a los cambios actuales
 
-Git push -- sube los cambios del repo local al remoto en Github(u otra)
+Git push origin main -- sube los cambios del repo local al remoto en Github(u otra) a la rama main
 
 Git checkout <nombre_rama> -- te cambia y posiciona en otra rama
 
