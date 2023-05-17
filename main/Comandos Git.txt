@@ -10,4 +10,7 @@ Git commit .m "<mensaje>" -- sirve para guardar y hacer commit con un mensaje a 
 
 Git push -- sube los cambios del repo local al remoto en Github(u otra)
 
+Git checkout <nombre_rama> -- te cambia y posiciona en otra rama
+
+Git checkout <id_commit> -- te posiciona en otra versión del repositorio
 
